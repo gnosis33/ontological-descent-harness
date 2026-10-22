@@ -1,0 +1,5 @@
+Design an AI-agent orchestration harness that handles heterogeneous tools,
+unreliable observations, dynamic resource constraints, and permission boundaries.
+Compare conventional workflow graphs with alternative foundations, if any.
+The solution must preserve authorization invariants, recover from tool failures,
+and produce auditable evidence. Do not assume a new ontology is necessary.
